@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset='utf-8'/>
+	<title>Adventures in Deep Learning – Nate Parrott</title>
+</head>
+<body>
+	<h1>Adventures in Deep Learning</h1>
+	<p>Computers seem <em>smart,</em> but smart in a strange way — they're really good at math, and they can get good at chess if they have enough power to predict dozens of moves into the future — but when it comes to telling cats and dogs apart, or understanding language, no one's quite sure where to start with programming them. Neural networks are the first class of algorithms that really show promise doing those things that three-year-olds are really good at, but computers aren't.</p>
+	<p>And strangely enough, they aren't so complicated either. The "breakthrough" of neural networks was figuring out that if you build a framework that allowed computers to "learn," and then threw enough data at them, they'd learn.</p>
+	<p>Over the past couple months, I've been trying to learn more — deeply <em>and</em> broadly - about neural networks and "deep learning" (a buzzword that basically just means "big neural networks"). These are my notes and my experiences trying to learn about the field — they aren't meant to be a guide or even a decent explanation of how these things work, but hopefully they'll at least be interesting.</p>
+	<h2>Recognizing handwritten digits</h2>
+	<figure>
+		<img src='mnist.png'/>
+		<figcaption>Some examples of handwritten digits from the MNIST dataset.</figcaption>
+	</figure>
+	<p>During Fall 2016, I took <a>CS1950k</a> at Brown. I really recommend the initial projects for anyone looking to get a good understanding of deep learning. For the first three assignments, we wrote classifiers for  handwritten digits from the <a>MNIST data set.</a> Each 27x27-pixel image was represented as a list of 784 numbers, each number representing the brightness of a specific pixel. Each image in the dataset was also labelled with the digit it represented, and fed into a neural network, which was trained (via gradient descent) to output 10 numbers, representing the probabilities that a given image represented the corresponding digit.</p>
+	<p>The first week, we <a>wrote a neural network from scratch-ish</a>, using Python and Numpy for matrix math, but no neural-net libraries. This meant spending a lot of time going over lecture slides and re-learning basic calculus in order to get <a>backpropogation</a> working, but it was good to understand the nitty-gritty details of how things worked.</p>
+	<p>The next week, we started using <a>TensorFlow</a>to build a fully-connected network. This was my first time using TensorFlow, and I really enjoyed its <em>automatic differentiation</em> — once you've assembled a neural network, it'll automatically figure out the derivatives and "error gradients" of the network, allowing you to "train" the network via backpropogation in a single line of code. The error </p>
+</body>
+</html>

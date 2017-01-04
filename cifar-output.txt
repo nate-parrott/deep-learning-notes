@@ -1,0 +1,82 @@
+It's actually a ('deer', 'http://gfp.sd.gov/hunting/big-game/images/deer1-01.jpg')
+# airplane
+# automobile
+# bird
+# cat
+######### deer
+# dog
+# frog
+########## horse
+# ship
+# truck
+
+
+
+It's actually a ('frog', 'http://www.gaylordfunkyfish.com/images/Red-Eye-Tree-Frog-300x244.png')
+# airplane
+# automobile
+# bird
+# cat
+# deer
+# dog
+################### frog
+# horse
+# ship
+# truck
+
+
+
+It's actually a ('airplane', 'https://media.licdn.com/mpr/mpr/jc/AAEAAQAAAAAAAAMiAAAAJGVlYTU5Y2YyLWQwMzYtNDlmZS04MDdlLWI0ZjJjZWRhYjk4ZQ.jpg')
+########### airplane
+# automobile
+# bird
+# cat
+# deer
+# dog
+# frog
+# horse
+###### ship
+## truck
+
+
+
+It's actually a ('ship', 'http://www.vships.com/media/92241/passenger-vessel.jpg')
+# airplane
+# automobile
+# bird
+# cat
+# deer
+# dog
+# frog
+# horse
+################## ship
+## truck
+
+
+
+It's actually a ('dog', 'https://images-na.ssl-images-amazon.com/images/G/01/img15/pet-products/small-tiles/23695_pets_vertical_store_dogs_small_tile_8._CB312176604_.jpg')
+# airplane
+# automobile
+# bird
+### cat
+###### deer
+######### dog
+# frog
+### horse
+# ship
+# truck
+
+
+
+It's actually a ('bird', 'http://www.audubon.org/sites/default/files/styles/engagement_card/public/sfw_apa_2013_28342_232388_briankushner_blue_jay_kk_high.jpg')
+# airplane
+# automobile
+####### bird
+##### cat
+# deer
+##### dog
+# frog
+## horse
+# ship
+# truck
+

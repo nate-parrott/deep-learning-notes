@@ -1,0 +1,120 @@
+body {
+	margin: 0;
+	font-family: "Helvetica Neue", "HelveticaNeue", "Helvetica", "Arial", sans-serif;
+	line-height: 1.6;
+}
+
+#title {
+	text-align: center;
+	padding-top: 4em;
+	padding-bottom: 4em;
+}
+
+#title h1 {
+	transform: rotate(-2deg);
+}
+
+#title h1 span {
+	color: #E579D2;
+	text-transform: uppercase;
+	text-shadow: 0 2px 2px rgba(184, 44, 100, 0.11);
+	letter-spacing: 2px;
+	font-weight: 400;
+}
+
+#title h1 span:after {
+	content: "\A";
+	white-space: pre;
+}
+
+#title h1 strong {
+	margin-top: 0.15em;
+	margin-bottom: 0.25em;
+	display: inline-block;
+	background-image: linear-gradient(to right, #FF00AF, #FF8C8C);
+	color: rgba(255,255,255,0.97);
+	font-size: 80px;
+	font-weight: 200;
+	padding: 0.2em 0.5em;
+	box-shadow: 0 2px 15px rgba(255, 80, 167, 0.6);
+}
+
+#title p {
+	max-width: 750px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p, figcaption {
+	color: #7F638C;
+	font-weight: 500;
+	font-size: 18px;
+}
+
+figcaption {
+	font-size: 0.9em;
+	margin-top: 0.3em;
+}
+
+section {
+	padding: 3em 1em;
+}
+
+section:nth-child(even) {
+	border: 0.5px solid #DCB5CF;
+	border-left-width: 0;
+	border-right-width: 0;
+	background-color: #FFFBFC;
+}
+
+.desc-and-figure {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+
+.desc-and-figure figure {
+	max-width: 400px;
+}
+
+figure img {
+	width: 100%;
+}
+
+.desc-and-figure > .desc {
+	max-width: 700px;
+}
+
+figure.slanted {
+	transform: rotate(2deg);
+}
+
+figure.slanted img {
+	box-shadow: 0 2px 11px rgba(245, 80, 157, 0.5);
+}
+
+figure.centered {
+	max-width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 1em;
+	padding-right: 1em;
+	text-align: center;
+}
+
+figure.centered figcaption {
+	max-width: 500px;
+	margin: auto;
+}
+
+h2 {
+	color: #7A1D5A;
+}
+
+p a, h2 a {
+	border-bottom: 2.5px solid rgba(255, 134, 141, 0.5);
+	text-decoration: none;
+	color: inherit;
+}
+

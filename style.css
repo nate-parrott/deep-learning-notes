@@ -57,7 +57,7 @@ figcaption {
 }
 
 section {
-	padding: 3em 1em;
+	padding: 3em 2em;
 }
 
 section:nth-child(even) {
@@ -78,8 +78,17 @@ section:nth-child(even) {
 	max-width: 400px;
 }
 
+section > .desc {
+	margin-left: auto;
+	margin-right: auto;
+}
+
 figure img {
 	width: 100%;
+}
+
+.desc {
+	max-width: 820px;
 }
 
 .desc-and-figure > .desc {
@@ -90,8 +99,16 @@ figure.slanted {
 	transform: rotate(2deg);
 }
 
-figure.slanted img {
+figure.slanted.left {
+	transform: rotate(-2deg);
+}
+
+figure.slanted img, figure.shadowed img {
 	box-shadow: 0 2px 11px rgba(245, 80, 157, 0.5);
+}
+
+figure.float {
+	float: right ;
 }
 
 figure.centered {
@@ -100,6 +117,12 @@ figure.centered {
 	margin-right: auto;
 	padding-left: 1em;
 	padding-right: 1em;
+	text-align: center;
+}
+
+figure.wide {
+	width: 80%;
+	margin: 2em auto;
 	text-align: center;
 }
 

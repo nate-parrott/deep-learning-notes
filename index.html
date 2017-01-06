@@ -38,8 +38,28 @@
 		</div>
 		<figure class='wide'>
 			<img src='xfer.png'/>
-			<figcaption>A "style" image, a "content" image, and the mixture of both images using style transfer.</figcaption>
+			<figcaption>A "content" image, a "style" image, and the mixture of both images using style transfer.</figcaption>
 		</figure>
+	</section>
+	
+	<section>
+		<div class='desc'>
+			<h2><a href='https://github.com/nate-parrott/juypter-notebooks/blob/master/mnist-variational-autoencoder.ipynb'>Generating fake handwritten MNIST digit</a> using variational autoencoders</h2>
+			<p>
+				I'm interested in generative models that use neural networks to produce <em>new</em> content. I took the MNIST dataset and trained a <a href='http://kvfrans.com/variational-autoencoders-explained/'>variational autoencoder</a> — a neural network that tries to compress its input image into a vector of numbers and then reconstruct it. You can do arithmetic on these latent vectors — for example, "blending" two digits together by averaging their vectors. Latent vectors can also be sampled from randomly to generate random digit-like images.
+			</p>
+			<figure class='wide'>
+				<img src='reconstructed.png'/>
+				<figcaption>Some original MNIST digits (top) and the network's reconstruction of them, after compressing them down to vectors of 10 floating-point numbers.</figcaption>
+			</figure>
+			<figure class='wide'>
+				<img src='blended.png'/>
+				<figcaption>A 0 is transformed into a 2 by taking weighted sums of their vectors, then running the "reconstruction" step to produce an image.</figcaption>
+			</figure>
+			<figure class='wide'>
+				<img src='mnist_generated.png'/>
+				<figcaption>Some images taken by randomly generating latent vectors and reconstructing an image from them.</figcaption>
+			</figure>
 	</section>
 	
 	<section>

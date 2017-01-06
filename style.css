@@ -170,3 +170,13 @@ p a, h2 a {
 		font-size: 14px;
 	}
 }
+
+#by a {
+	color: inherit;
+	display: inline-block;
+	text-decoration: none;
+/*	background-color: #FF7E8F;
+	opacity: 0.82;
+	padding: 0.3em 1.2em;
+	border-radius: 0%;*/
+}

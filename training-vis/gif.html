@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<head>
+	<script type="text/javascript" src="LZWEncoder.js"></script>
+	<script type="text/javascript" src="NeuQuant.js"></script>
+	<script type="text/javascript" src="GIFEncoder.js"></script>
+	<script src='parts.js'></script>
+	<script type="text/javascript" src="b64.js"></script>
+	<script type="text/javascript" src="blend.js"></script>
+</head>
+<body>
+	<canvas id='bitmap' width='700' height='350'></canvas>
+	<img id='img' style='box-shadow: 0px 0px 3px black'/>
+	<script>
+    var canvas = document.getElementById('bitmap');
+    var context = canvas.getContext('2d');
+		
+	function renderText(txt, progress) {
+	    context.fillStyle = 'rgb(255,255,255)';
+	    context.fillRect(0,0,canvas.width, canvas.height); //GIF can't do transparent so do white
+
+	    // context.fillStyle = "rgb(200,0,0)";
+	    // context.fillRect (10, 10, 75, 50);   //draw a little red box
+	    //
+		context.font = '40px GTPressuraMono';
+		context.fillStyle = blend('#FF0096', '#111F98', progress);
+		var lineHeight = 50;
+		var top = 42;
+		txt.split('\n').forEach(function(line) {
+			context.fillText(line,2,top);
+			top += lineHeight;
+		})
+	}
+	
+	var maxParts = 40;
+	
+    var encoder = new GIFEncoder();
+    encoder.setRepeat(0); //0  -> loop forever
+                          //1+ -> loop n times then stop
+    encoder.setDelay(400); //go to next frame every n milliseconds
+    encoder.start();
+	
+	var framesToRender = [];
+	
+	for (var i=0; i<maxParts; i++) {
+		var progress = Math.pow(i/maxParts, 3);
+		var frame = Math.floor(progress * parts.length);
+		if (framesToRender.length && framesToRender[framesToRender.length-1] == frame) {
+			// skip
+		} else {
+			framesToRender.push(frame);
+		}
+	}
+	
+	framesToRender.splice(0,0,framesToRender[0])
+	
+	for (var i=0; i<4; i++)
+		framesToRender.push(parts.length-1);
+	
+	framesToRender.forEach(function(frame) {
+		var part = parts[frame];
+		var progress = frame / parts.length;
+		renderText(part, progress)
+	    encoder.addFrame(context);
+	})
+	
+    encoder.finish();
+    var binary_gif = encoder.stream().getData() //notice this is different from the as3gif package!
+    var data_url = 'data:image/gif;base64,'+encode64(binary_gif);
+	document.getElementById('img').src = data_url;
+	</script>
+</body>

@@ -1,0 +1,1032 @@
+Step: 600; loss: 1566.54138184
+nate -> aaaa
+will -> aaaa
+joe -> aaa
+justin -> aaaaaa
+ example encoding: bell -> aaaa
+Step: 1200; loss: 1542.34008789
+nate -> aaaa
+will -> aaaa
+joe -> aaa
+justin -> aaaaaa
+ example encoding: kingston -> aaaaaeeea
+Step: 1800; loss: 1530.46826172
+nate -> aaaa
+will -> aaaa
+joe -> aaa
+justin -> aaaaaaa
+ example encoding: erasmus -> aaaaaee
+Step: 2400; loss: 1498.74853516
+nate -> aaaa
+will -> aaaa
+joe -> aaa
+justin -> aaaaaa
+ example encoding: nona -> aaaa
+Step: 3000; loss: 1488.49914551
+nate -> aaaa
+will -> aaaa
+joe -> aaa
+justin -> aaaaaa
+ example encoding: les -> aaa
+Step: 3600; loss: 1483.14575195
+nate -> aaaa
+will -> aaaa
+joe -> aaa
+justin -> aaaaaaa
+ example encoding: berrie -> caaaaa
+Step: 4200; loss: 1403.80224609
+nate -> aaaa
+will -> aaaa
+joe -> aaa
+justin -> aaaaaa
+ example encoding: valida -> aaaaaa
+Step: 4800; loss: 1425.92895508
+nate -> baea
+will -> aaaa
+joe -> jaa
+justin -> laeeeeh
+ example encoding: augusto -> baaeeea
+Step: 5400; loss: 1374.92651367
+nate -> aeee
+will -> leee
+joe -> jae
+justin -> aeeeeea
+ example encoding: erinna -> aaeeea
+Step: 6000; loss: 1384.16186523
+nate -> aeee
+will -> leee
+joe -> aoe
+justin -> aeeeeea
+ example encoding: maxi -> meee
+Step: 6600; loss: 1375.80334473
+nate -> aeee
+will -> leee
+joe -> joa
+justin -> aaeeeeh
+ example encoding: rosana -> rorsna
+Step: 7200; loss: 1370.28515625
+nate -> aeee
+will -> leee
+joe -> ll
+justin -> aaeeeea
+ example encoding: rosamund -> rorrrand
+Step: 7800; loss: 1360.13366699
+nate -> aeee
+will -> llle
+joe -> lle
+justin -> aaniita
+ example encoding: gilberta -> gileeeea
+Step: 8400; loss: 1339.76550293
+nate -> aaee
+will -> lill
+joe -> lle
+justin -> aasiita
+ example encoding: lorinda -> llrdina
+Step: 9000; loss: 1311.49194336
+nate -> nete
+will -> aill
+joe -> loe
+justin -> alsttta
+ example encoding: andria -> aadiia
+Step: 9600; loss: 1296.42736816
+nate -> aete
+will -> aall
+joe -> loe
+justin -> aasitt
+ example encoding: conrad -> conddd
+Step: 10200; loss: 1296.12414551
+nate -> aate
+will -> lill
+joe -> loe
+justin -> aasitt
+ example encoding: henrietta -> ceeneeeea
+Step: 10800; loss: 1294.8470459
+nate -> aate
+will -> lill
+joe -> loe
+justin -> aasiie
+ example encoding: gera -> gera
+Step: 11400; loss: 1278.14416504
+nate -> nate
+will -> lill
+joe -> joa
+justin -> aasiit
+ example encoding: jeanluc -> jlllllee
+Step: 12000; loss: 1295.63122559
+nate -> nate
+will -> llll
+joe -> joe
+justin -> aasiit
+ example encoding: clayton -> llaooon
+Step: 12600; loss: 1280.59094238
+nate -> aate
+will -> lill
+joe -> loe
+justin -> aasiin
+ example encoding: jonathon -> aonoooon
+Step: 13200; loss: 1269.58618164
+nate -> ante
+will -> lill
+joe -> joe
+justin -> aatiin
+ example encoding: ammamaria -> aaaaaaria
+Step: 13800; loss: 1263.86474609
+nate -> aate
+will -> lill
+joe -> loe
+justin -> aasiin
+ example encoding: giordano -> giiooooo
+Step: 14400; loss: 1252.1829834
+nate -> aate
+will -> lill
+joe -> joe
+justin -> aasiin
+ example encoding: nathan -> aathnn
+Step: 15000; loss: 1271.75280762
+nate -> aate
+will -> iill
+joe -> joe
+justin -> aasiin
+ example encoding: xymenes -> aseenee
+Step: 15600; loss: 1257.65686035
+nate -> aate
+will -> lill
+joe -> joe
+justin -> jastin
+ example encoding: astrix -> asrria
+Step: 16200; loss: 1246.94067383
+nate -> nate
+will -> lill
+joe -> joe
+justin -> jastin
+ example encoding: grace -> rraee
+Step: 16800; loss: 1247.37451172
+nate -> aate
+will -> lill
+joe -> joe
+justin -> jastin
+ example encoding: hadria -> carria
+Step: 17400; loss: 1253.98327637
+nate -> aate
+will -> gill
+joe -> joe
+justin -> jatiin
+ example encoding: anny -> nnn
+Step: 18000; loss: 1240.4876709
+nate -> nate
+will -> rill
+joe -> joe
+justin -> justin
+ example encoding: jacquenet -> jaauuenee
+Step: 18600; loss: 1238.52282715
+nate -> aate
+will -> gill
+joe -> joe
+justin -> justin
+ example encoding: lora -> lora
+Step: 19200; loss: 1234.86303711
+nate -> tate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: wileen -> bileen
+Step: 19800; loss: 1202.43530273
+nate -> aate
+will -> bill
+joe -> joe
+justin -> justin
+ example encoding: francisca -> rraniiisa
+Step: 20400; loss: 1203.64355469
+nate -> nate
+will -> iill
+joe -> jee
+justin -> justin
+ example encoding: mamie -> maiie
+Step: 21000; loss: 1208.98059082
+nate -> aate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: rafaelia -> raaaelia
+Step: 21600; loss: 1223.97961426
+nate -> nate
+will -> iill
+joe -> joe
+justin -> justin
+ example encoding: glynda -> glanda
+Step: 22200; loss: 1198.84033203
+nate -> nate
+will -> lila
+joe -> joe
+justin -> justin
+ example encoding: sallyann -> callaann
+Step: 22800; loss: 1185.20288086
+nate -> nate
+will -> bill
+joe -> joe
+justin -> justin
+ example encoding: geeta -> geeta
+Step: 23400; loss: 1207.625
+nate -> aate
+will -> iill
+joe -> joe
+justin -> justin
+ example encoding: ketty -> ketty
+Step: 24000; loss: 1215.12585449
+nate -> aate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: giffer -> giieer
+Step: 24600; loss: 1202.33520508
+nate -> aate
+will -> iill
+joe -> joe
+justin -> justin
+ example encoding: staford -> chaoord
+Step: 25200; loss: 1193.60205078
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: antoinett -> nntonnett
+Step: 25800; loss: 1219.94213867
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: stefanie -> shenanie
+Step: 26400; loss: 1202.78466797
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: thanks -> aathanss
+Step: 27000; loss: 1202.0657959
+nate -> aate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: rockwell -> roaaeela
+Step: 27600; loss: 1192.6114502
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: henrik -> henria
+Step: 28200; loss: 1193.44726562
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: robena -> roeena
+Step: 28800; loss: 1197.33190918
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: wilona -> iilona
+Step: 29400; loss: 1193.41967773
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: simonette -> cioonette
+Step: 30000; loss: 1180.97851562
+nate -> nate
+will -> bill
+joe -> joe
+justin -> justin
+ example encoding: corrina -> corrina
+Step: 30600; loss: 1192.38757324
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: antonino -> nntonooo
+Step: 31200; loss: 1185.03857422
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: ginny -> ginny
+Step: 31800; loss: 1187.16137695
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: danya -> daana
+Step: 32400; loss: 1184.9675293
+nate -> aate
+will -> lall
+joe -> joe
+justin -> justin
+ example encoding: delphinia -> delhhinia
+Step: 33000; loss: 1182.5970459
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: thornie -> thornie
+Step: 33600; loss: 1190.53320312
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: parsifal -> carsiial
+Step: 34200; loss: 1196.43603516
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justina
+ example encoding: paolo -> caolo
+Step: 34800; loss: 1170.7956543
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: enid -> enid
+Step: 35400; loss: 1185.70568848
+nate -> ntte
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: giovanna -> gionanna
+Step: 36000; loss: 1180.06262207
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: renell -> renell
+Step: 36600; loss: 1192.91943359
+nate -> nate
+will -> lill
+joe -> joe
+justin -> jultin
+ example encoding: toinette -> tonnetta
+Step: 37200; loss: 1194.66088867
+nate -> nate
+will -> bill
+joe -> joe
+justin -> justin
+ example encoding: lorianna -> lorianna
+Step: 37800; loss: 1190.51342773
+nate -> nate
+will -> iill
+joe -> joe
+justin -> justin
+ example encoding: dwane -> daane
+Step: 38400; loss: 1178.07043457
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: dedie -> dedie
+Step: 39000; loss: 1177.6217041
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: sheelah -> sheelah
+Step: 39600; loss: 1182.10241699
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: zorine -> rorine
+Step: 40200; loss: 1185.53051758
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: maurice -> mauriee
+Step: 40800; loss: 1187.05786133
+nate -> nate
+will -> bill
+joe -> joe
+justin -> justin
+ example encoding: bengt -> benta
+Step: 41400; loss: 1183.35192871
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: janeczka -> janeaaaa
+Step: 42000; loss: 1176.70080566
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: olle -> olee
+Step: 42600; loss: 1179.60974121
+nate -> nate
+will -> lill
+joe -> joe
+justin -> juttin
+ example encoding: davin -> daain
+Step: 43200; loss: 1176.16894531
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: lissa -> lissa
+Step: 43800; loss: 1164.1328125
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: onida -> onida
+Step: 44400; loss: 1184.61767578
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: jackie -> jaiiie
+Step: 45000; loss: 1174.43371582
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: jennee -> jennee
+Step: 45600; loss: 1171.35693359
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: jessamyn -> jessaaan
+Step: 46200; loss: 1172.82104492
+nate -> nate
+will -> iill
+joe -> joe
+justin -> jlstin
+ example encoding: blondell -> blondell
+Step: 46800; loss: 1183.60388184
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: bea -> bea
+Step: 47400; loss: 1178.00085449
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: sammy -> saaay
+Step: 48000; loss: 1180.01538086
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: adrian -> adrian
+Step: 48600; loss: 1185.46838379
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: caterina -> caterina
+Step: 49200; loss: 1181.41357422
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: essie -> essie
+Step: 49800; loss: 1186.88415527
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: krystle -> krsstle
+Step: 50400; loss: 1174.67663574
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: berri -> berri
+Step: 51000; loss: 1173.48925781
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: knox -> taoo
+Step: 51600; loss: 1188.91931152
+nate -> natt
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: imojean -> iooeean
+Step: 52200; loss: 1173.68603516
+nate -> nate
+will -> gill
+joe -> joe
+justin -> justin
+ example encoding: lucita -> luiita
+Step: 52800; loss: 1176.19458008
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: ferne -> eerne
+Step: 53400; loss: 1182.43884277
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: raine -> raine
+Step: 54000; loss: 1179.16149902
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: fraser -> araser
+Step: 54600; loss: 1172.39794922
+nate -> aate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: neal -> neal
+Step: 55200; loss: 1189.60168457
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: nevin -> neiin
+Step: 55800; loss: 1175.77294922
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: mohan -> mohan
+Step: 56400; loss: 1168.72351074
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: erna -> erna
+Step: 57000; loss: 1167.50646973
+nate -> nate
+will -> lill
+joe -> joe
+justin -> juttin
+ example encoding: tommy -> toaay
+Step: 57600; loss: 1171.39135742
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: andrey -> andrey
+Step: 58200; loss: 1167.69897461
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: charlotta -> charlotta
+Step: 58800; loss: 1163.73620605
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: foster -> ooster
+Step: 59400; loss: 1181.50964355
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: normie -> noraie
+Step: 60000; loss: 1175.44836426
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: bethanne -> bethanne
+Step: 60600; loss: 1177.16052246
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: florencia -> roorenaia
+Step: 61200; loss: 1162.63684082
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: sueelle -> seelelle
+Step: 61800; loss: 1175.44970703
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: consuelo -> consoolo
+Step: 62400; loss: 1173.84448242
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: franky -> aranay
+Step: 63000; loss: 1172.1529541
+nate -> nate
+will -> ball
+joe -> joe
+justin -> justin
+ example encoding: ericha -> erihha
+Step: 63600; loss: 1166.73144531
+nate -> nate
+will -> lill
+joe -> joey
+justin -> justin
+ example encoding: simeon -> sieeon
+Step: 64200; loss: 1162.90380859
+nate -> nate
+will -> lill
+joe -> joe
+justin -> juttin
+ example encoding: magdalen -> maddalen
+Step: 64800; loss: 1167.88452148
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: chadwick -> shaddiaa
+Step: 65400; loss: 1169.45031738
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: ninnette -> ninnette
+Step: 66000; loss: 1176.68237305
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justina
+ example encoding: vilhelm -> lilhela
+Step: 66600; loss: 1171.09411621
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: chelsae -> shelsae
+Step: 67200; loss: 1161.66540527
+nate -> natt
+will -> bill
+joe -> joe
+justin -> justin
+ example encoding: nelia -> nelia
+Step: 67800; loss: 1171.83288574
+nate -> natt
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: barrett -> barrett
+Step: 68400; loss: 1177.1574707
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: antoine -> antoine
+Step: 69000; loss: 1168.15319824
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: ingelbert -> inaeleert
+Step: 69600; loss: 1159.06762695
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: aleta -> aleta
+Step: 70200; loss: 1159.34301758
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: roda -> roda
+Step: 70800; loss: 1167.28735352
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: steward -> steaard
+Step: 71400; loss: 1174.77844238
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: mitchell -> mithhell
+Step: 72000; loss: 1172.22436523
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justina
+ example encoding: brandice -> brandiae
+Step: 72600; loss: 1156.74755859
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: jolie -> jolie
+Step: 73200; loss: 1164.37695312
+nate -> aate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: paton -> paton
+Step: 73800; loss: 1171.8795166
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: frederick -> drederiaa
+Step: 74400; loss: 1169.64147949
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: lenny -> lenny
+Step: 75000; loss: 1179.61352539
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: suzzy -> sussy
+Step: 75600; loss: 1171.31213379
+nate -> nate
+will -> bill
+joe -> joe
+justin -> justin
+ example encoding: johan -> johan
+Step: 76200; loss: 1161.00927734
+nate -> nate
+will -> gill
+joe -> joe
+justin -> justin
+ example encoding: jennilee -> jennilee
+Step: 76800; loss: 1168.26953125
+nate -> nate
+will -> gill
+joe -> joe
+justin -> justin
+ example encoding: rochester -> rohhester
+Step: 77400; loss: 1166.3807373
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: ada -> ada
+Step: 78000; loss: 1172.23632812
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: sim -> sia
+Step: 78600; loss: 1177.46289062
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: meaghan -> meahhan
+Step: 79200; loss: 1181.03527832
+nate -> nate
+will -> iill
+joe -> joe
+justin -> justin
+ example encoding: danielle -> danielle
+Step: 79800; loss: 1174.9934082
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: rupert -> rurert
+Step: 80400; loss: 1160.05273438
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: mariya -> mariaa
+Step: 81000; loss: 1170.50268555
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: allsun -> allsun
+Step: 81600; loss: 1174.43127441
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: hercules -> heruules
+Step: 82200; loss: 1175.26379395
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: karisa -> karisa
+Step: 82800; loss: 1171.79956055
+nate -> nate
+will -> iill
+joe -> joe
+justin -> justin
+ example encoding: eduard -> eduard
+Step: 83400; loss: 1170.56848145
+nate -> nate
+will -> rill
+joe -> joe
+justin -> justin
+ example encoding: avivah -> aaihah
+Step: 84000; loss: 1169.05664062
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: lurline -> lurline
+Step: 84600; loss: 1159.45178223
+nate -> nate
+will -> iill
+joe -> joe
+justin -> justin
+ example encoding: deeanne -> deeanne
+Step: 85200; loss: 1168.95910645
+nate -> nate
+will -> bill
+joe -> joe
+justin -> justin
+ example encoding: gillie -> gillie
+Step: 85800; loss: 1161.6652832
+nate -> nate
+will -> lill
+joe -> joe
+justin -> juttin
+ example encoding: nichol -> nihhol
+Step: 86400; loss: 1170.35827637
+nate -> aate
+will -> gill
+joe -> joe
+justin -> justin
+ example encoding: blancha -> blanhha
+Step: 87000; loss: 1155.03564453
+nate -> nate
+will -> iill
+joe -> joe
+justin -> justin
+ example encoding: conni -> conni
+Step: 87600; loss: 1169.54833984
+nate -> nate
+will -> gill
+joe -> joe
+justin -> justin
+ example encoding: veda -> eeda
+Step: 88200; loss: 1159.03588867
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: teddi -> teddi
+Step: 88800; loss: 1163.88452148
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: si -> si
+Step: 89400; loss: 1170.44396973
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: rianon -> rianon
+Step: 90000; loss: 1165.98388672
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: korella -> korella
+Step: 90600; loss: 1164.71105957
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: nonie -> nonie
+Step: 91200; loss: 1172.96435547
+nate -> nate
+will -> bill
+joe -> joe
+justin -> justin
+ example encoding: aime -> aiee
+Step: 91800; loss: 1174.26257324
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: johnathan -> johaathan
+Step: 92400; loss: 1161.16101074
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: wallache -> lallaehe
+Step: 93000; loss: 1158.5802002
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: essa -> essa
+Step: 93600; loss: 1162.91369629
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: priscilla -> prisiilla
+Step: 94200; loss: 1163.82556152
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: shelagh -> shelaah
+Step: 94800; loss: 1160.95983887
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: raine -> raine
+Step: 95400; loss: 1172.72558594
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: grace -> graee
+Step: 96000; loss: 1169.47619629
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: phillipe -> philliee
+Step: 96600; loss: 1163.29052734
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: gabriele -> gairiele
+Step: 97200; loss: 1165.25793457
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: yehudi -> eeuudi
+Step: 97800; loss: 1167.47106934
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: bobbie -> boieie
+Step: 98400; loss: 1170.30285645
+nate -> nate
+will -> bill
+joe -> joe
+justin -> justin
+ example encoding: lynsey -> lynsey
+Step: 99000; loss: 1169.04748535
+nate -> nate
+will -> bill
+joe -> joe
+justin -> justin
+ example encoding: sonni -> sonni
+Step: 99600; loss: 1161.7232666
+nate -> aate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: alma -> alaa
+Step: 100200; loss: 1154.94445801
+nate -> nate
+will -> iill
+joe -> joe
+justin -> justin
+ example encoding: ariella -> ariella
+Step: 100800; loss: 1153.51831055
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: biddy -> biddy
+Step: 101400; loss: 1159.71911621
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justina
+ example encoding: leoline -> leoline
+Step: 102000; loss: 1153.48547363
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: brice -> briee
+Step: 112200; loss: 1162.00390625
+nate -> nate
+will -> iill
+joe -> joe
+justin -> justin
+ example encoding: sheelagh -> sheelaah
+Step: 112800; loss: 1159.01794434
+nate -> nate
+will -> lill
+joe -> joe
+justin -> justin
+ example encoding: anne -> anne
